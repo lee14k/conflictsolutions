@@ -1,0 +1,33 @@
+.mid {
+    background-color: #c0d298;
+}
+
+.custom-shape-divider-top-1686417586 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.dot {
+    height: 200px;
+    width: 200px;
+    background-color: #ffff;
+    border-radius: 50%;
+    z-index:10;
+    display:flex;
+  }
+
+  .stats {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+  }
+
+  .hhead {
+    margin-top:70px;
+    margin-left:20px;
+  }
